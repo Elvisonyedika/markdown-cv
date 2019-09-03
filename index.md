@@ -10,11 +10,6 @@ Mathematician, Programmer - PHP and JavaScript.
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>-->
 
-
-## Currently
-
-Standing on the shoulders of giants
-
 ### Specialized in
 
 Mathematics, Programming (PHP and JavaScript), Teaching
