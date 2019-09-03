@@ -1,14 +1,14 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Elvis Chukwu's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Chukwu Elvis Onyedikachi
+Mathematician, Programmer - PHP and JavaScript.
 
-<div id="webaddress">
+<!--<div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+</div>-->
 
 
 ## Currently
@@ -17,21 +17,18 @@ Standing on the shoulders of giants
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Mathematics, Programming (PHP and JavaScript), Teaching
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2015-2016`
+__University Of Nottingham.__
+_Postgraduate Certificate In Education_
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2006 - 2011`
+__Enugu State University Of Science And Technology__
+_B.Sc In Industrial Mathematics_
 
 - Sizar
 
