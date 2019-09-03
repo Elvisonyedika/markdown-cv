@@ -18,12 +18,12 @@ Mathematics, Programming (PHP and JavaScript), Teaching
 ## Education
 
 `2015-2016`
-__University Of Nottingham.__
--Postgraduate Certificate In Education-
+__University Of Nottingham__
+- Postgraduate Certificate In Education
 
 `2006 - 2011`
 __Enugu State University Of Science And Technology__
--B.Sc In Industrial Mathematics-
+- B.Sc In Industrial Mathematics
 
 - Sizar
 
