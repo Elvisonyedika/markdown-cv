@@ -20,14 +20,15 @@ Mathematics, Programming (PHP and JavaScript), Teaching
 `2015-2016`
 __University Of Nottingham__
 
-- Postgraduate Certificate In Education
+- Postgraduate Certificate In Education -
 
 `2006 - 2011`
 __Enugu State University Of Science And Technology__
 
-- B.Sc In Industrial Mathematics
+- B.Sc In Industrial Mathematics -
 
-- Sizar
+_Second Class Upper_
+
 
 `1667 - death`
 __Trinity College, Cambridge__
