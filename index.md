@@ -26,7 +26,6 @@ __University Of Nottingham__
 __Enugu State University Of Science And Technology__
 
 - B.Sc In Industrial Mathematics -
-
 _Second Class Upper_
 
 
