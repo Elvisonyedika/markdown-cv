@@ -25,8 +25,7 @@ __University Of Nottingham__
 `2006 - 2011`
 __Enugu State University Of Science And Technology__
 
-- B.Sc In Industrial Mathematics -
-_Second Class Upper_
+- B.Sc In Industrial Mathematics _Second Class Upper_ -
 
 
 `1667 - death`
